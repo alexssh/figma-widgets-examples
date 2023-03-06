@@ -1,0 +1,14 @@
+{
+  "name": "Example 2 - Lists",
+  "id": "1214274635042873587",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}

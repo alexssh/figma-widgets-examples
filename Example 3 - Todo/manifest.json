@@ -1,0 +1,14 @@
+{
+  "name": "Example 3 - Todo",
+  "id": "1214345629488747845",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}

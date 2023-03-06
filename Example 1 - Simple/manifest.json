@@ -1,0 +1,14 @@
+{
+  "name": "Example 1 - Simple",
+  "id": "1214247698503060677",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
